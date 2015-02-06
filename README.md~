@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # cmsc128ab7l
 Exercise Material for CMSC128 AB7L for AY2014-2015
+<<<<<<< HEAD
 #CMSC128 Project - Learning Git 
 This README file presents how to produce markdown file.
 Note: We are trying our best to learn it asap.
@@ -13,6 +14,19 @@ The following are the developers of this project:
 			* Member 3
 		
 =======
+
+# CMSC 128 Project - Learning Git
+This README file presents what how to produce a markdown file.
+*Note: We are trying our best to learn it asap.*
+
+## Developers
+The following are the developers of this project:
+*
+	* Member 1
+	* Member 2
+	* Member n
+>>>>>>> 325d7a384583289acef74d17b71793b331788645
+=======
 #CMSC 128 Project - Learning Git
 This README file presents what how to produce a markdown file.
 *Note: We are trying our best to learn it asap*
@@ -22,4 +36,8 @@ The following are the developers of this project:
 	*Member1
 	*Member2
 	*Member3
+<<<<<<< HEAD
 >>>>>>> d0bd1c78f9583dc51ed12b3eb2634f02ed714234
+=======
+>>>>>>> 736e6cd39b4d32b001186c6aba8b02a19c731a26
+>>>>>>> 325d7a384583289acef74d17b71793b331788645
