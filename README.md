@@ -43,3 +43,18 @@ The following are the developers of this project:
 	* Member 2
 	* Member n
 >>>>>>> 176a22bef9f5c2d7bb7bbd542b799ba9895c1616
+
+#CMSC 128 Project-Learning Git
+
+AB-7L sexy beast was here
+
+
+##Developer
+The following are the developers of this project:
+<<<<<<< HEAD
+<ul>
+	<li>Carlos</li>
+	<li>Carlos</li>
+	<li>Carlos</li>
+</ul>
+>>>>>>> 3e1c0a82b6ba9aebe5fb48dce011ceba21576f4e
