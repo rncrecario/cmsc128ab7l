@@ -19,7 +19,7 @@ The following are the developers of this project:
 #CMSC 128 Project-Learning Git
 >>>>>>> 5c5165db464e91200f7b0c6ed823aacbedb32361
 This README file presents what how to produce a markdown file.
-Note: We are trying our best to learn it asap.
+_Note: We are trying our best to learn it asap._
 
 ##Developer
 The following are the developers of this project:
@@ -32,8 +32,14 @@ The following are the developers of this project:
 >>>>>>> 3e1c0a82b6ba9aebe5fb48dce011ceba21576f4e
 =======
 
+<<<<<<< HEAD
 	- Member 1
 	- Member 2
 	- Member n
 
 >>>>>>> 5c5165db464e91200f7b0c6ed823aacbedb32361
+=======
+	* Member 1
+	* Member 2
+	* Member n
+>>>>>>> 176a22bef9f5c2d7bb7bbd542b799ba9895c1616
