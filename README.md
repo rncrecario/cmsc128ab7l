@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+#CMSC 128 Project - Learning Git
+This README file presents what how to produce a markdown file.
+*Note: We are trying our best to learn it asap*
+
+##Developers
+The following are the developers of this project:
+	*Member1
+	*Member2
+	*Member3
+=======
 # cmsc128ab7l
 Exercise Material for CMSC128 AB7L for AY2014-2015
 
@@ -58,3 +69,4 @@ The following are the developers of this project:
 	<li>Carlos</li>
 </ul>
 >>>>>>> 3e1c0a82b6ba9aebe5fb48dce011ceba21576f4e
+>>>>>>> aff05f4396e7965a2850ae41869f586261b48b67
